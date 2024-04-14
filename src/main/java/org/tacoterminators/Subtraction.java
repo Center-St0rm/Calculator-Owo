@@ -1,2 +1,4 @@
-package org.tacoterminators;public class Subtraction {
+package org.tacoterminators;
+
+public class Subtraction {
 }
