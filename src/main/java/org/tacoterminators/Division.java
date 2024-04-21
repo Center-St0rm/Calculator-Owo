@@ -1,2 +1,4 @@
-package org.tacoterminators;public class Division {
+package org.tacoterminators;
+
+public class Division {
 }
